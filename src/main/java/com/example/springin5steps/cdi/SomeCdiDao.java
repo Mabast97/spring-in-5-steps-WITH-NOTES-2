@@ -7,4 +7,5 @@ import javax.inject.Named;
 @Component  // in spring
 @Named  // in CDI, instead of @Component
 public class SomeCdiDao {
+
 }

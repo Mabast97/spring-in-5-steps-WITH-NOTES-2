@@ -5,6 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
+
 @SpringBootApplication // this annotation automatically scans the package and the sub packages of the package where this is in for beans
 public class SpringIn5StepsBasicApplication {
 
